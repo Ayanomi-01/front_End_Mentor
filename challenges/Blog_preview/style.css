@@ -18,10 +18,10 @@ body {
 
 .container {
     background-color: hsl(0, 0%, 100%);
-    max-width:38vh;
+    max-width:35vh;
     min-height:max-content;
     border: 1px solid hsl(0, 0%, 7%);
-    border-radius: 7%;
+    border-radius: 10%;
     padding:32px 50px 32px 32px;
     display: flex;
     flex-direction: column;
@@ -43,7 +43,7 @@ body {
     color:hsl(0, 0%, 42%) ;
 }
 h1 {font-weight: 800;
-  font-size: 28px;
+  font-size: 24px;
 }
 .person-img {
     display: flex;
